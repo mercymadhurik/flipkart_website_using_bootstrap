@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="#" style="color:blue;">FLIPKART</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="#">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Cart</a>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  LOGIN
+                </a>
+                <ul class="dropdown-menu">
+                    <li><a class="dropdown-item" href="#">My Profile</a></li>
+                  <li><a class="dropdown-item" href="#">Orders</a></li>
+                  <li><a class="dropdown-item" href="#">Wishlist</a></li>
+                  <li><hr class="dropdown-divider">Rewards</li>
+                  <li><a class="dropdown-item" href="#">Gift Cards</a></li>
+                </ul>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Become a Seller</a>
+              </li>
+              
+            </ul>
+            <form class="d-flex" role="search">
+              <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+              <button class="btn btn-outline-success" type="submit">Search</button>
+            </form>
+          </div>
+        </div>
+      </nav>
+
+      <div class="p-3 mb-2 bg-secondary-subtle text-secondary-emphasis">
+    
+            <div class="d-flex">
+                <div class="p-2 flex-fill"> <a href="https://www.flipkart.com/grocery-supermart-store?marketplace=GROCERY&fm=neo%2Fmerchandising&iid=M_b21588b6-959a-4c68-88b9-954f3a05bc78_1_372UD5BXDFYS_MC.CBUR1Q46W5F1&otracker=hp_rich_navigation_1_1.navigationCard.RICH_NAVIGATION_Grocery_CBUR1Q46W5F1&otracker1=hp_rich_navigation_PINNED_neo%2Fmerchandising_NA_NAV_EXPANDABLE_navigationCard_cc_1_L0_view-all&cid=CBUR1Q46W5F1"><img src="https://rukminim2.flixcart.com/flap/64/64/image/29327f40e9c4d26b.png?q=100" width="70px" height="70px"></a><p style="text-align:center;"><small>Grocery</small></p></div>
+                <div class="p-2 flex-fill"><a href="https://www.flipkart.com/mobile-phones-store?fm=neo%2Fmerchandising&iid=M_b21588b6-959a-4c68-88b9-954f3a05bc78_1_372UD5BXDFYS_MC.ZRQ4DKH28K8J&otracker=hp_rich_navigation_2_1.navigationCard.RICH_NAVIGATION_Mobiles_ZRQ4DKH28K8J&otracker1=hp_rich_navigation_PINNED_neo%2Fmerchandising_NA_NAV_EXPANDABLE_navigationCard_cc_2_L0_view-all&cid=ZRQ4DKH28K8J"><img src="https://rukminim2.flixcart.com/flap/64/64/image/22fddf3c7da4c4f4.png?q=100" width="70px" height="70px"></a><p style="text-align:center;"><small>Mobiles</small></p></div>
+                <div class="p-2 flex-fill"><img src="https://rukminim2.flixcart.com/fk-p-flap/64/64/image/0d75b34f7d8fbcb3.png?q=100" width="70px" height="70px"><p style="text-align:center;"><small>Fashion</small></p></div>
+                <div class="p-2 flex-fill"> <img src="https://rukminim2.flixcart.com/flap/64/64/image/69c6589653afdb9a.png?q=100" width="70px" height="70px"><p style="text-align:center;"><small>Electronics</small></p></div>
+                 <div class="p-2 flex-fill"><img src="https://rukminim2.flixcart.com/flap/64/64/image/ab7e2b022a4587dd.jpg?q=100" width="70px" height="70px"><p style="text-align:center;"><small>Home & Furniture</small></p></div>
+                 <div class="p-2 flex-fill"><img src="https://rukminim2.flixcart.com/fk-p-flap/64/64/image/0139228b2f7eb413.jpg?q=100" width="70px" height="70px"><p style="text-align:center;"><small>Appliances</small></p></div>
+                 <div class="p-2 flex-fill"><a href="https://www.flipkart.com/travel/flights?param=DTNavIcon&fm=neo%2Fmerchandising&iid=M_ed09acb4-9cac-40d9-8d1c-3b72aced38cd_1_372UD5BXDFYS_MC.V4ZPKTOAO321&otracker=hp_rich_navigation_7_1.navigationCard.RICH_NAVIGATION_Travel_V4ZPKTOAO321&otracker1=hp_rich_navigation_PINNED_neo%2Fmerchandising_NA_NAV_EXPANDABLE_navigationCard_cc_7_L0_view-all&cid=V4ZPKTOAO321"><img src="https://rukminim2.flixcart.com/flap/64/64/image/71050627a56b4693.png?q=100" width="70px" height="70px"></a><p style="text-align:center;"><small>Travel</small></p></div>
+                  <div class="p-2 flex-fill"><img src="https://rukminim2.flixcart.com/flap/64/64/image/dff3f7adcf3a90c6.png?q=100" width="70px" height="70px"><p style="text-align:center;"><small>Toys & More</small></p></div>
+                  <div class="p-2 flex-fill"><img src="https://rukminim1.flixcart.com/fk-p-flap/64/64/image/05d708653beff580.png?q=100" width="70px" height="70px"><p style="text-align:center;"><small>Two Wheelers</small></p></div>
+                </div>
+
+    
+      </div>
+
+      <div id="carouselExample" class="carousel slide">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img src="https://img.freepik.com/free-photo/blonde-girl-sitting-cart-smiling_651396-212.jpg?size=626&ext=jpg&ga=GA1.1.528246273.1714381524&semt=ais_user" class="d-block w-100" alt="image1" height="200px">
+          </div>
+          <div class="carousel-item">
+            <img src="https://img.freepik.com/free-photo/portrait-woman-happy-with-products-ordered_23-2148577065.jpg?size=626&ext=jpg&ga=GA1.1.528246273.1714381524&semt=ais_user" class="d-block w-100" alt="image2" height="200px">
+          </div>
+          <div class="carousel-item">
+            <img src="https://img.freepik.com/free-photo/smiley-woman-holding-shopping-bags-smartphone_23-2148684496.jpg?size=626&ext=jpg&ga=GA1.1.528246273.1714381524&semt=ais_user" class="d-block w-100" alt="image3" height="200px">
+          </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>
+      <div style="display: flex;">
+        <img src="https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSu4HbQraxs_4Pf59_EnGKn7Knr5tC9usNh5_NLRqtPYoChon6zvuCb64fxePt0iJNfRNwan9eN9G9kwDEwLsj34NI4-liG8Pi_vaa2ePj8V4poTz3zhMcO" class="img-thumbnail" alt="...">
+        <img src="https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRYwB9ODo8BjOvnw8gKj1DxjsYqinP9imSCcv_PAbh5jdG--_j2oKgY0EhrW9Ok8kVNMpSyaRR32pnkbmZfqsnfmQHAjodfw1pGqegeQPLpzcFmykgv0ezTvi9kvtzNl2UMTw3_4dgy4FI&usqp=CAc" class="img-thumbnail" alt="...">
+        <img src="https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQQ6I87oxK1-4gtvfVhmvpxhvRZOOVr91oLaXVWJOscN4NnCS2SDV_zwY0Tfe0l5oHNCodjs5eR3c-apxhLXSuK6xLrLZkMQKm8I0AQeQAR58Ife0o9VRnM8X8w3FwRDkSGJxBJEMgJ7Q&usqp=CAc" class="img-thumbnail" alt="...">
+        <img src="data:image/webp;base64,UklGRjAGAABXRUJQVlA4ICQGAADQHwCdASpzAIUAPj0Mj0eiEREMqCADxLKAZ3KC9tgqAv2E96dAj03BGZUtveOX9M/aB0gKhP62darygCqVXgHmtATR8GpS6t1eOAVEPxfcfePjlYDSD8xZh/iNi/0annjLFZ7/zcXomtO8hx/rm6jmN66cGsROcTwLG5bZDiUD1AomQok/pr3iqjw0/TE4wX5cp1+pu5g0qYBHT+nXiIlvifW7bAPtUtFOUtawGcIzsxTCnfVBULnqnGTmIlKUjwKgT/CtcWfh42z3BX89aw9Ehrh0lu/ZOo8UUxN3Mt0mNJmqWRm/UXCuQ60XyOTXJsrz+fAsG9KNQH6pCL1j3/MS7rnC+hxMAAD+/XvGzAZXI4lkb272b75HjgEXBFKqPXi8Gqupkf/sZeOzx8HjAxydzDZusDJLWLF5RBLOx6IQ1A/kWQvtsquAFhtm/jm1Hk3OgpZQmqc1duqKN1bzHN3WoGpYBNt8JFLbVNRVc6xnu2MhDTYY7aoIqzlmHxIZOROrPbPct5qUtFz/7+uaczkT6ui7dOlbOqHzRdDh300aQOpvoMECRo4wIaWlAq7UkdfE9IuWE0+0VF/kXLOJ1CZR49y4Rx9dL7g7ZdcUpD9zW33a3g3XHRVuluYfwuFW/TjU3UrvJCPo0YRMhHIju1V/4UBFXiBV+2NRypAkZ25GsXmG4znNx7uo8V7LxSJb2DkJfv+X0Kdh1yU75p3lcQv5mnsF/9bbGuVtYGLBVk/ZGG6N2hAt6TJ5NZOf0SlDix9tAORBRoTmOivPJHmUNuNqTPm29OaKSn2kdNnl9THTR5SMviChxC2UZbD+io2a5cTCxynfmexpOrna2fdTGXYoFN7FPWD7gh8djEW+td0ctWbzfuQsm0+1vdkogfGiTZp8AP9WH5dr6O7zPxWRN9oosVx97/fQ6LC8C5DkJBbydf7Ae6gpn3l7XCH+mJ9GFIk3blv/J47JhORnsuW4oiKkD6fi7YbnUzwaaynk+pmmKb4qSmwleZH+a6QAU2r5lSzsdDxQVmpPMKI3H8J7isOE+Y6MVmNwHFua4w/PZtA55K9oE9YBhcKXcivvuHC+EnLcKAUWt4GRu6mjiLNnLNyoJPKdObZrL1CZp8p+EZQKCFmGPr21AKtWgRs9eUK6xYKl9joMDO+U+iegQR5hhXaX+oI3ASAOaSVsh7isBq5HP9BMw1v20Jf4OI/L6PVuK0GScodBDCF6sMEaZ5+vmfIH9umWrorsV8mIypPYYHhgkEScZFnqNsV68Ds2f38OWvsO+rWgJYilyb9GtZD2Yz7UjHXj40jpC1XiTwUd9Urhbhe9eP8gWIpnpxkWaQbvdGfi2L2x4q5R9Pqp0Qq8TdmE4guuF4wwrbKqqjBiCmVKPjZ5baWw5WwCJqt8BijW9E/UHwhKql8POExi75nn+aND0nmKY9pZ15DZykTt47Px264C2C88mGxafFnBEHvQESvG0jauQkcfxVq/gmJU86MGcoGT/R8i0qnQ6x5r1DKdC7FiqULzc/VdvBCmHC7CH3hmiYSKQt0JCY774uZ4tSLLQteZcTe7HLlUzEdnLFQIR71yk2hBESwOycEGhOeTSjOb803qJz3NnckBcbnYEi8wNItb1K9BrKfxTmH6yvZGfWjK0u8SwGmqPAvrd/YO8Mgryhjk7LCu/ZVKzQn8BDQvR4A9vlijrkTZ3jVofRT+t9exirrcL0W6JQIJiAeO/C/RkzfKLDV8n/jBPPF+Ga+n7mcUsXX37yRHDrBOExSbgg5eALSwR0YVFHT+CjIjpDWjzvRJx/GJYqUTV/EqLfZlyLFz54ZEByld3VT6W05C8FZ8AySEyyjKp9yadh67JIStP3ldilPNTdKIBxyriV7XMSA5YjkTrUVc/pnUpEnmFW7uVVdpFr8odFOAcuWfz6fW8dtT4rvmTELKzRwGqqKegPOlxMTuXqrQbaSEZD/Nt8LJ4BwkvkkGBh80gKwF+2dwTyaswaxbZI0f+JkZwMCbfgY+1zoImnhp9oCIwST8fsWV9tLnIgmDsll8uztMTWkDkCxlMpwq9ayCU0g8Lsy/MTHLnuMIGxJjqEeOowQ5W3AAAAA=" class="img-thumbnail" alt="...">
+        <img src="https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRv_OqajDHZpfqlNhGXfMoVAbDz81gKFXW3MpG_3ZdOl9Xa4Zr4ERdRbyaXImhsqQNBHVHAQhVM7tT7OWGVbYFWykM_s0L1X598Eht8BecquRUuwDD5AhQC" class="img-thumbnail" alt="...">
+        <img src="https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRQm-T0gaz_2I2QsqHA-loH9Qmaa91LmJ_3Y40eTkjBGfAUTcUW09PZbe5Bcq_JnxSWC0bCwMRW4mb6rJyquAs-wxJc8fvFVMMcqAsYVk7ynwhjbjeoCKH1" class="img-thumbnail" alt="...">
+    </div>
+
+    <div class="p-3 mb-2 bg-secondary-subtle text-secondary-emphasis">
+    
+      <div class="d-flex">
+        <div class="p-2 flex-fill"><a href="https://www.flipkart.com/tyy/4io/~cs-33irmtdz82/pr?sid=tyy,4io&collection-tab-name=Moto+Edge+50+pro+5g&param=7878980"><img src="https://rukminim1.flixcart.com/fk-p-flap/520/280/image/30c93ff8cf3026dd.jpg?q=20" width="90%"></a></div>
+        <div class="p-2 flex-fill"><a href="https://www.flipkart.com/tyy/4io/~cs-qmhvm2xfhp/pr?sid=tyy,4io&collection-tab-name=Vivo+T3X+5G&param=98999"><img src="https://rukminim1.flixcart.com/fk-p-flap/520/280/image/8eacc329e456d1e2.jpg?q=20" width="90%"></a></div> 
+          <div class="p-2 flex-fill"><a href="https://www.flipkart.com/tyy/4io/~cs-6ky41lperx/pr?sid=tyy,4io&collection-tab-name=POCO+M6+Pro+5G&param=9890"><img src="https://rukminim1.flixcart.com/fk-p-flap/520/280/image/3563cb9934232526.jpg?q=20" width="90%"></a></div>
+      </div>
+
+      <div class="d-flex">
+        <div class="p-2 flex-fill"><a href="https://www.flipkart.com/j9e/abm/c54/~cs-r4fqpesrjz/pr?sid=j9e,abm,c54&collection-tab-name=Top+50+deals&param=865"><img src="https://rukminim1.flixcart.com/fk-p-flap/520/280/image/5406db3888580955.jpg?q=20" width="90%"></a></div>
+        <div class="p-2 flex-fill"><a href="https://www.flipkart.com/ckf/czl/~cs-fiztksf1lc/pr?sid=ckf%2Cczl&collection-tab-name=Price+Drop+on+TVs&sort=recency_desc"><img src="https://rukminim1.flixcart.com/fk-p-flap/520/280/image/893ea2a230487675.jpg?q=20" width="90%"></a></div> 
+          <div class="p-2 flex-fill"><a href="https://www.flipkart.com/j9e/abm/hzg/~cs-ynbzre5ra8/pr?sid=j9e,abm,hzg&collection-tab-name=Best+Selling+Refrigerators1"><img src="https://rukminim1.flixcart.com/fk-p-flap/520/280/image/2b36cac548271100.jpg?q=20" width="90%"></a></div>
+      </div>
+
+      <div class="d-flex">
+        <div class="p-2 flex-fill"> <a href="https://www.flipkart.com/home-furnishing/bed-linen-blankets/bedsheets/pr?sid=jra%2Cknw%2Cqcw&marketplace=FLIPKART&p%5B%5D=facets.size%255B%255D%3DKing"><img src="https://rukminim1.flixcart.com/fk-p-flap/520/280/image/36a25c42073677a6.jpg?q=20" width="90%"></div>
+        <div class="p-2 flex-fill"><a href="https://www.flipkart.com/audio-video/speakers/pr?sid=0pm%2C0o7&sort=popularity&param=8755&p%5B%5D=facets.price_range.from%3D1999&p%5B%5D=facets.price_range.to%3DMax&p%5B%5D=facets.type%255B%255D%3DSoundbar&p%5B%5D=facets.rating%255B%255D%3D3%25E2%2598%2585%2B%2526%2Babove&param=786"><img src="https://rukminim1.flixcart.com/fk-p-flap/520/280/image/2581779c0be1e566.jpeg?q=20" width="90%"></a></div> 
+          <div class="p-2 flex-fill"><a href="https://www.flipkart.com/furniture/mattresses/pr?sid=wwe%2Crg9&p%5B%5D=facets.price_range.from%3D3000&p%5B%5D=facets.price_range.to%3DMax"><img src="https://rukminim1.flixcart.com/fk-p-flap/520/280/image/f44101cc97507393.jpg?q=20" width="90%"></a></div>
+      </div>
+
+      <div class="d-flex">
+        <div class="p-2 flex-fill"><a href="https://www.flipkart.com/automotive-accessories/pr?sid=1mt&marketplace=FLIPKART&p%5B%5D=facets.fulfilled_by%255B%255D%3DPlus%2B%2528FAssured%2529"><img src="https://rukminim2.flixcart.com/fk-p-flap/520/280/image/627a36c505de04be.jpg?q=20" width="90%"></a></div>
+        <div class="p-2 flex-fill"><a href="https://www.flipkart.com/all/~cs-ed8rfy5c1x/pr?sid=all&collection-tab-name=Health+Drinks"><img src="https://rukminim2.flixcart.com/fk-p-flap/520/280/image/32320a2ce48438bc.jpg?q=20" width="90%"></a></div> 
+          <div class="p-2 flex-fill"><a href="https://www.flipkart.com/toys/pr?sid=tng&p%5B%5D=facets.fulfilled_by%255B%255D%3DPlus%2B%2528FAssured%2529&p%5B%5D=facets.rating%255B%255D%3D4%25E2%2598%2585%2B%2526%2Babove"><img src="https://rukminim2.flixcart.com/fk-p-flap/520/280/image/b0cc2b19e5dac56a.jpg?q=20" width="90%"></a></div>
+      </div>
+
+      
+
+
+      <div class="news">
+        <p>
+            <b>Flipkart Private Limited </b>is an Indian e-commerce company, headquartered in Bangalore, 
+            and incorporated in Singapore as a private limited company. The company initially focused 
+            on online book sales before expanding into other product categories such as consumer
+             electronics, fashion, home essentials, groceries, and lifestyle products.[5][6]
+
+            The service competes primarily with Amazon India and domestic rival Snapdeal.[7][8] As
+             of FY23, Flipkart held a 48% market share in the Indian e-commerce industry.[9] Flipkart
+              has a dominant position in the apparel segment, bolstered by its acquisition of Myntra,
+               and was described as being "neck and neck" with Amazon in the sale of electronics 
+               and mobile phones.[10]
+
+               <h3>2007-2010: Start-up phase</h3>
+Flipkart was founded in October 2007 in Bangalore[11] by Sachin Bansal and Binny Bansal, alumni of 
+the IIT, Delhi and former Amazon employees.[12][13][14] The company was started from a two-bedroom apartment 
+in Kormangala, Bengaluru. The initial investment was provided by their families, which was INR 2 Lakh from 
+each family. The website was kicked off in October 2007 and the company was only limited to selling books 
+at that time country-wide shipping.[15] Flipkart slowly grew in prominence and was receiving 100 orders per
+day by 2008.[16]
+
+Flipkart acquired WeRead in 2010 from Lulu.com that helped it build its foundational strength which was
+the digital retail of books. This space was otherwise only shared by very limited number of players at 
+that time in the market, such as Landmark and Infibeam. Flipkart used aggressive discounts and focused 
+on customer service to move towards a leadership position in the market. WeRead consisted of a large
+network of readers (~3 Million) with around 60 million books. The platform also noted information that 
+was user generated – such as people marking a book as favorite or leaving a review or rating. WeRead,
+because of its utility to community and independent nature maintained its brand identity even after 
+acquisition[17][18]
+
+<h3>2011-2014: Growth, mergers and acquisitions</h3>
+In 2011, Flipkart acquired the digital distribution business Mime360.com[19] and the digital content
+library of the Bollywood portal Chakpak.[20] Following the acquisition, Flipkart launched its DRM-free 
+Digital music store Flyte in 2012. Due to competition from free streaming sites, Flyte was unsuccessful 
+and shut down in June 2013.[21][22][23][24] Mime360 was a content distributor that used HTTP-based encryption
+technology that allows for fast and secure data delivery. It distributed music, media and games using it's
+distribution platform.[25]
+
+With its eyes on India's retail market, Flipkart acquired Letsbuy, an online electronics retailer,[26] in 
+2012, and Myntra, an online fashion retailer, for US$280 million in May 2014.[27] Myntra continues to operate 
+alongside Flipkart as a standalone subsidiary focusing on separate market segments.[28]
+
+In <h4>October 2014</h4>, Flipkart reprised the Big Billion Days event as a multi-day event exclusive to the Flipkart 
+app. Flipkart bolstered its supply chain and introduced more fulfillment centers to meet customer demand.[29]
+Flipkart achieved a gross merchandise volume of US$300 million during the event, with the largest volumes
+coming from fashion sales and the largest value coming from mobiles.[30]
+
+In 2014, Flipkart invested in Ngpay to strengthen the mobile payment services since there was an increased
+focus on mobile ecommerce; Flipkart reported that mobile ecommerce was contributing 50% of its sales. 
+Investment in Ngpay was followed by Flipkart shutting Payzippy – the in-house payment gateway and merged 
+it with Ngpay. The Ngpay mobile application could be used to buy services and products through the mobile
+phones.[31]
+
+<b>2015-2018</b>
+In April 2015, Flipkart acquired Appiterate, a Delhi-based mobile marketing automation firm. Flipkart stated 
+that it would use Appiterate's technology to enhance its mobile services.[32] In December 2015, Flipkart 
+purchased a stake of around 34% (at a deal of around $260 million)[33] in the digital mapping provider
+MapmyIndia.[34] The company also invested in the UPI mobile payments startup PhonePe same year.[35][36] The
+two entities, PhonePe and Flipkart, separated as two different companies later.[37]
+
+In 2016, Flipkart acquired the online fashion retailer Jabong.com from Rocket Internet for US$70 million 
+and in January 2017, Flipkart made a US$2 million investment in TinyStep, a parenting information startup.[38]
+
+In 2017, Flipkart sold 1.3 million phones in 20 hours on 21 September during its Big Billion Days promotion,
+doubling the number sold on the first day of the same event in 2016.[39] Flipkart held a 51% share of all 
+Indian smartphone shipments in 2017, overtaking Amazon India (33%).[40]
+
+In <h4>April 2017</h4>, eBay announced that it would sell its Indian subsidiary, eBay.in, to Flipkart and invest
+US$500 million in the company. While eBay suggested that the partnership would allow Flipkart to access 
+eBay's network of international vendors, these plans never came to fruition.[41][42] In July 2017, Flipkart
+made an offer to acquire its main domestic competitor, Snapdeal, for US$700 to 800 million. It was rejected
+by Snapdeal, which was seeking at least US$1 billion.[43]
+
+In <h4>August 2018</h4>, American retail chain Walmart acquired a 77% controlling stake in Flipkart for US$16 billion, 
+valuing Flipkart at around US$20 billion.[44] Flipkart is valued at $37.6 billion as of 2022.[45] It
+is planning to go public through a listing in the United States of America in 2023.[46]
+
+On 13 November 2018, Flipkart CEO Binny Bansal resigned after facing an allegation of "serious personal
+misconduct". Walmart stated that "while the investigation did not find evidence to corroborate the
+complainant's assertions against Binny, it did reveal other lapses in judgment, particularly a lack of
+transparency, related to how Binny responded to the situation."[47][48]
+
+<h3>2019-2022</h3>
+In July 2019, Flipkart launched Samarth program that supported local artisans, weavers, and craftspersons 
+that traditionally are only able to sell locally.[49] The Samarth program supports with onboarding and helping
+them sell their products online beyond their local markets, and across the country. Apart from the onboarding, the program also helps with other processes of selling online such as cataloging, warehousing support etc.[50][51]
+
+Flipkart invested US$4 million in the customer engagement and rewards platform EasyRewardz - a business-to
+-business loyalty management platform on 19 November 2019.[52][53] The platform supports the management of 
+loyalty points among banks and brands.[54]
+
+In 2020, Flipkart launched Flipkart Wholesale, a novel online marketplace that provided a digital platform
+for kiranas and MSMEs.[55] As a part of the same initiative around Flipkart Wholesale, Flipkart also acquired
+100% stake in Walmart India Private Limited operating Best Price cash-and-carry business to further 
+strengthen the wholesale capabilities.[56]
+
+In <h4>July 2020</h4>, Flipkart acquired a 27% stake in Arvind Fashions Limited's newly formed subsidiary Arvind
+Youth Brands for US$35 million. Arvind Youth Brands owns the Flying Machine brand.[57] Flipkart also rolled
+out Flipkart Quick, a hyperlocal 90-minute delivery service for product categories such as groceries, home
+accessories, mobile phones, stationery, and more.[58]
+
+In <h4>October 2020</h4>, Flipkart acquired a 7.8% stake in Aditya Birla Fashion and Retail for US$204 million.[59][60] 
+The following month, Flipkart acquired the intellectual property of gaming startup Mech Mocha for an undisclosed amount.[61] The acquisition formed part of Flipkart's plans to gain and retain users by offering casual games.[62] In November 2020, Flipkart acquired augmented reality company Scapic, which provides a suite of tools to create and publish augmented reality, virtual reality, and 3D content quickly and without coding.[63]
+
+As of 2021, the Flipkart app was available in 8 local Indian languages, Gujarati, Bengali, Odia, Hindi, 
+Telugu, Kannada, Marathi and Tamil.[64]
+
+In <h4>April 2021</h4>, Flipkart announced the acquisition of the travel booking portal Cleartrip.[65] Flipkart also
+entered the hotel industry for the Indian and global markets. The Flipkart Hotels uses Cleartrip API.[66] 
+Flipkart acquired Cleartrip's business in Middle East by signing a definitive agreement with Wego - an online
+market place for travel that operates in middle east and North Africa. This included the sale of the website
+Flyin.com.[67]
+
+In <h4>July 2021</h4>, Flipkart launched its social commerce marketplace called Shopsy, which allowed individuals 
+and small businesses to direct sell and resell products to customers via social media channels.[68] In
+December 2021, Shopsy entered the grocery delivery segment in 700 cities across India.[69][70] Shopsy
+surpasses 200 million app downloads on its 2nd anniversary in the month of July in 2023 with more than
+60% of users hailing from tier-3 markets and other cities.[71][72]
+
+In <h4>2022</h4>, when PhonePe (acquired by Flipkart in 2015) moved its entire base to India, Flipkart separated the 
+ownership of PhonePe and shareholders in India and Singapore and the respective shareholders purchased shares
+of PhonePe's India entity directly. It was announced that a cash payout of approximately $700 million was
+to be made to the former and current employees who were holding PhonePe's shares.[37][73]
+
+In <h4>April 2022</h4>, Flipkart launched its first grocery fulfilment center in Northeast India, based in Guwahati.
+The centre was reportedly women-run to promote inclusion of women in the Flipkart's supply chain and to 
+support the career progression of Flipkart's female employees.[74] The same month, the company established 
+the Flipkart Foundation to support entrepreneurship and skill development within the underserved communities 
+in India.[75]
+
+In <h4>2022</h4>, Flipkart entered the Non-Fungible Tokens (NFTs) and Web3 segment by letting the Indian purchasers 
+of Nothing Phone (1) to get Nothing's NFT through the app called Nothing Community Dots. These NFTs use the
+Polygon blockchain to host it.[76] The NFT drop happened at FireDrops - which was done on Flipkart's NFT 
+marketplace, supported by GuardianLink.[77] In October 2022, Flipkart also created a shopping platform that
+was metaverse-based, called Flipverse. The platform allows people to explore products and shop in a more 
+interactive way.[78] The Flipverse has been created through a partnership with a Polygon-incubated firm
+called eDAO, and Flipverse hopes to provide a similar experience to the actual mall-like shopping where people would be able to create their Avatars.[79][80]
+
+<h3>2023-Present</h3>
+The e-commerce also started a virtual storefront that is dedicated to the academic needs of students named 
+'Flipkart Student's Club'.[81] The 'Flipkart Green' venture was created in 2023 for customers who want to 
+have a sustainable lifestyle by providing certified sustainable products.[82]
+
+Binny Bansal resigned from the executive team on January 28, 2024, and over the past few months, he has 
+completely divested his stake. In the last year, Binny, along with Excel and Tiger Global Management, 
+
+sold their entire stake to Walmart, resulting in Binny earning around 1.5 billion dollars. Walmart had 
+acquired a 77% stake in Flipkart for 16 billion dollars in May 2018.[83]
+
+In March 2024, Flipkart launched its UPI services, Flipkart UPI, in partnership with Axis Bank.[84][85]
+</p>
+</div>
+
+
+
+
+
+</body>
+</html>
+
+
+
